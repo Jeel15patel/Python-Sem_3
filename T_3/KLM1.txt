@@ -1,0 +1,7 @@
+#Program Start
+
+def sum(a,b): #Function Defines
+    c = a+b
+    print(i) #Print Ans
+
+#Program Over

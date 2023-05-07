@@ -1,0 +1,3 @@
+This is Python.
+The Python is Easy.
+Python have Easy Syntax.
